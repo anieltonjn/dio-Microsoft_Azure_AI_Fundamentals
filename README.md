@@ -1,9 +1,23 @@
-<img  align="right" src = "img/banner.jpeg" width="1000">
+<img  align="center" src = "img/banner.jpeg" width="1000">
+<br \>
+<br \>...
+
+
+
+<img align="right" src="img/ai900.webp" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas!
 <a href="https:/github.com/anieltonjn/dio-pratica-microsoft-azure-ai-fundamentals/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<br \>
+<br \>
+<br \>
+
+
+# Tarefas Realizadas 
+
+### [Desafio de Projeto 01 - Trabalhando com Machine Learning](dp01/README.md)
 
 
 
@@ -25,6 +39,3 @@ Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas 
 Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
 
 Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
-
-
-### Repositório destinado às entregas dos desafios de projeto da formação.
