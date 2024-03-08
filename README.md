@@ -1,6 +1,7 @@
 <img  align="center" src = "img/banner.jpeg" width="1000">
 <br \>
-<br \>...
+<br \>
+<br \>
 
 
 
@@ -17,9 +18,8 @@
 
 # Tarefas Realizadas 
 
-### [Desafio de Projeto 01 - Trabalhando com Machine Learning](dp01/README.md)
-
-
+### [Desafio de Projeto 01](dp01/README.md) - Trabalhando com Machine Learning
+Neste primeiro desafio fomos chamados a explorar os conceitos de machine learnig utilizando a plataforma da Azure e dessa forma ajudando a aumentar o portifólio de projetos utilizando o GitHub.
 
 ## Detalhes da formação
 
