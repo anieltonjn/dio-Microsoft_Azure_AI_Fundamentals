@@ -3,7 +3,7 @@
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas! 
 
-[![](/img/fork.svg)](https:/github.com/anieltonjn/dio-pratica-microsoft-azure-ai-fundamentals/fork)
+[![](/img/fork.svg)](https://github.com/anieltonjn/dio-pratica-microsoft-azure-ai-fundamentals/fork)
 
 
 # Tarefas Realizadas 
