@@ -27,7 +27,7 @@
 
 - Criar um novo "resource group", criar um "nome", a "região", e Apertar em "Examinar + criar".
 
-<img align="center" src="../img/dp01_04.jpg"/>
+<img align="center" src="../img/dp01_01.jpg"/>
 <br>
 
 - Esperar até que a validação ser aprovada, e então Apertar em "criar".
@@ -67,7 +67,8 @@
 
 ## Passo 7
 
-- O workspace escolhido é aberto. 
+- O workspace escolhido é aberto.
+
 <img align="center" src="../img/dp01_11.jpg"/>
 <br>
 

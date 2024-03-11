@@ -21,6 +21,9 @@
 ### [Desafio de Projeto 01](dp01/README.md) - Trabalhando com Machine Learning
 Neste primeiro desafio fomos chamados a explorar os conceitos de machine learnig utilizando a plataforma da Azure e dessa forma ajudando a aumentar o portifólio de projetos utilizando o GitHub.
 
+### [Desafio de Projeto 02](dp02/README.md) - Trabalhando com Visão Computacional
+Neste segundo desafio fomos chamados a explorar a visão computacional para analisarmos imagens e a partir daí tirarmos conclusões sobre o uso dessa ferramenta maravilhosa que nos é oferecida na análise de imagens.
+
 ## Detalhes da formação
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
