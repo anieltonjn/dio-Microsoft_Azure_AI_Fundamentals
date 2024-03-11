@@ -1,4 +1,4 @@
-# Trabalhando com Trabalhando com Visão Computacional
+# Trabalhando com Visão Computacional
 
 
 ## Passo 1
