@@ -6,8 +6,7 @@
 - Entrar na plataforma do [Portal Azure](https://portal.azure.com).
 - Clicar em Create a resource, nas categorias selecionar AI + Machine Learning e clicar em Create em "Azure AI Services".
 
-<img align="center" src="../img/dp02_01.jpg"/>
-<br>
+![](../img/dp02_01.jpg)
 
 ## Passo 2
 
@@ -20,13 +19,11 @@
 - Nível de preços: Standard S0.
 - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado .
 
-<img align="center" src="../img/dp02_02.jpg"/>
-<br>
+![](../img/dp02_02.jpg)
 
 - Clicar em Review + create e depois em Create
 
-<img align="center" src="../img/dp02_03.jpg"/>
-<br>
+![](../img/dp02_03.jpg)
 
 ## Passo 3
 
@@ -35,13 +32,11 @@
 - Em outra guia do navegador, navegue até Vision Studio em https://portal.vision.cognitive.azure.com
 - Na página que abrir clicar em View all resources
 
-<img align="center" src="../img/dp02_04.jpg"/>
-<br>
+![](../img/dp02_04.jpg)
 
 - Selecionar o recurso recém-criado e clicar em Select as default resource
 
-<img align="center" src="../img/dp02_05.jpg"/>
-<br>
+![](../img/dp02_05.jpg)
 
 - Não é aberto nenhuma mensagem, o recurso fica marcado apenas como default.
 - Depois é clicar em fechar e retornar a página anterior.
@@ -52,14 +47,12 @@
 
 - Na página inicial do Portal Vision selecione a guia Face e depois clique em Detect faces in an image
 
-<img align="center" src="../img/dp02_06.jpg"/>
-<br>
+![](../img/dp02_06.jpg)
 
 - Na página que abrir devemos reconhecer a política de usos, marcando a caixa de seleção.
 - No caso vamos trabalhar com a mossa primeira imagem de input.
 
-<img align="center" src="../img/dp02_07.jpg"/>
-<br>
+![](../img/dp02_07.jpg)
 
 ## Passo 5
 
@@ -67,14 +60,12 @@
 
 - Na página inicial do Portal Vision selecione a guia Optical character recognition e depois clique em Extract text from images.
 
-<img align="center" src="../img/dp02_08.jpg"/>
-<br>
+![](../img/dp02_08.jpg)
 
 - Na página que abrir devemos reconhecer a política de usos, marcando a caixa de seleção.
 - No caso vamos trabalhar com a mossa segunda imagem de input.
 
-<img align="center" src="../img/dp02_09.jpg"/>
-<br>
+![](../img/dp02_09.jpg)
 
 ## Passo 6
 
@@ -82,14 +73,12 @@
 
 - Na página inicial do Portal Vision selecione a guia Image analysis e depois clique em Add captions to images.
 
-<img align="center" src="../img/dp02_10.jpg"/>
-<br>
+![](../img/dp02_10.jpg)
 
 - Na página que abrir devemos reconhecer a política de usos, marcando a caixa de seleção.
 - No caso vamos trabalhar com a mossa terceira imagem de input.
 
-<img align="center" src="../img/dp02_11.jpg"/>
-<br>
+![](../img/dp02_11.jpg)
 
 ## Considerações Finais
 
