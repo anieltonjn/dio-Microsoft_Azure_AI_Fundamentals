@@ -29,7 +29,7 @@
 
 ### Conectar o recurso recém-criado ao Vision Studio: 
 
-- Em outra guia do navegador, navegue até Vision Studio em https://portal.vision.cognitive.azure.com
+- Em outra guia do navegador, abra o portal do [Vision Studio](https://portal.vision.cognitive.azure.com)
 - Na página que abrir clicar em View all resources
 
 ![](../img/dp02_04.jpg)

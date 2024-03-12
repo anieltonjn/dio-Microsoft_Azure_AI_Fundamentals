@@ -14,6 +14,9 @@ Neste primeiro desafio fomos chamados a explorar os conceitos de machine learnig
 ### [Desafio de Projeto 02](dp02/README.md) - Trabalhando com Visão Computacional
 Neste segundo desafio fomos chamados a explorar a visão computacional para analisarmos imagens e a partir daí tirarmos conclusões sobre o uso dessa ferramenta maravilhosa que nos é oferecida na análise de imagens.
 
+### [Desafio de Projeto 03](dp03/README.md) - Trabalhando com Análise de Sentimentos com Language Studio
+Neste terceiro desafio fomos chamados a explorar o processamento de linguagem natural a partir daí realizarmos a análise de texto dentro dele a análise de sentimentos interpretando assim as avaliações dos clientes a estabelecimentos comerciais por exemplo.
+
 ## Detalhes da formação
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
