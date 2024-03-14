@@ -14,8 +14,11 @@ Neste primeiro desafio fomos chamados a explorar os conceitos de machine learnig
 ### [Desafio de Projeto 02](dp02/README.md) - Trabalhando com Visão Computacional
 Neste segundo desafio fomos chamados a explorar a visão computacional para analisarmos imagens e a partir daí tirarmos conclusões sobre o uso dessa ferramenta maravilhosa que nos é oferecida na análise de imagens.
 
-### [Desafio de Projeto 03](dp03/README.md) - Trabalhando com Análise de Sentimentos com Language Studio
+### [Desafio de Projeto 03](dp03/README.md) - Trabalhando com Análise de Sentimentos no Language Studio
 Neste terceiro desafio fomos chamados a explorar o processamento de linguagem natural a partir daí realizarmos a análise de texto dentro dele a análise de sentimentos interpretando assim as avaliações dos clientes a estabelecimentos comerciais por exemplo.
+
+### [Desafio de Projeto 04](dp04/README.md) - Trabalhando com o serviço de índice de Pesquisa do Azure Cognitive Search
+Neste quarto desafio fomos chamados a explorar o serviço de indexação e consulta de dados do Azure Cognitive Search, a fim de que seja criada uma pesquisa que funcione juntamente com um serviço de inteligência artificial para identificar palavras chave, sentimentos.
 
 ## Detalhes da formação
 
