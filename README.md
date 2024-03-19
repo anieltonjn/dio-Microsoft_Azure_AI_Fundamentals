@@ -20,6 +20,9 @@ Neste terceiro desafio fomos chamados a explorar o processamento de linguagem na
 ### [Desafio de Projeto 04](dp04/README.md) - Trabalhando com o serviço de índice de Pesquisa do Azure Cognitive Search
 Neste quarto desafio fomos chamados a explorar o serviço de indexação e consulta de dados do Azure Cognitive Search, a fim de que seja criada uma pesquisa que funcione juntamente com um serviço de inteligência artificial para identificar palavras chave, sentimentos.
 
+### [Desafio de Projeto 05](dp05/README.md) - Explorando os Recursos de IA Generativa com Copilot e OpenAI
+Neste quinto e último desafio fomos chamados a explorar o serviço de IA Generativa utilizando os recursos do Copilot e OpennAI para a geração de respostas, de imagens e códigos.
+
 ## Detalhes da formação
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
